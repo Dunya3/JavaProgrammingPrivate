@@ -2,7 +2,7 @@ package day39_Recap.ShapeTask;
 
 public class Square extends Shape{
 
-    public double side;
+    private double side;
 
     public double getSide() {
         return side;
@@ -16,7 +16,7 @@ public class Square extends Shape{
         this.side = side;
     }
 
-    public Square(String name, double side){
+    public Square(double side){
         super("Square");
         setSide(side);
     }
