@@ -11,3 +11,9 @@ public class Teacher extends Employee{
 
     }
 }
+/*
+ 5. Create a subclass of Employee named Teacher
+
+            Override the work method
+
+ */
