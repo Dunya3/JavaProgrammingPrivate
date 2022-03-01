@@ -108,7 +108,7 @@ ArrayList vs LinkedList vs Vector vs Stack:
 		Vector: Same as ArrayList but Synchronized
 
 		Stack: Has Last-in-first-out (LIFO) logic
-.
+
 
 
 
